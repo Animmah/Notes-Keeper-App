@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Notes-keeper-app/static/js/main.c5530a78.chunk.js",
+    "main.js.map": "/Notes-keeper-app/static/js/main.c5530a78.chunk.js.map",
+    "runtime-main.js": "/Notes-keeper-app/static/js/runtime-main.51057ca8.js",
+    "runtime-main.js.map": "/Notes-keeper-app/static/js/runtime-main.51057ca8.js.map",
+    "static/js/2.89d5aa57.chunk.js": "/Notes-keeper-app/static/js/2.89d5aa57.chunk.js",
+    "static/js/2.89d5aa57.chunk.js.map": "/Notes-keeper-app/static/js/2.89d5aa57.chunk.js.map",
+    "index.html": "/Notes-keeper-app/index.html",
+    "static/js/2.89d5aa57.chunk.js.LICENSE.txt": "/Notes-keeper-app/static/js/2.89d5aa57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51057ca8.js",
+    "static/js/2.89d5aa57.chunk.js",
+    "static/js/main.c5530a78.chunk.js"
+  ]
+}
