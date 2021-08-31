@@ -3,6 +3,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
   background: #eee;
   background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
@@ -18,7 +19,6 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
   font-weight: 200;
 }
 
@@ -34,7 +34,7 @@ footer p {
   color: #ccc;
 }
 .note {
-  background: rgba(255, 255, 255, 0.582);
+  background: #fff;
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
